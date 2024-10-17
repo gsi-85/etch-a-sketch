@@ -1,0 +1,19 @@
+
+
+.main {
+    display: flex;
+    flex: auto;
+}
+
+
+.container div {
+    flex: auto;
+    background: peachpuff;
+    border: 4px solid brown;
+    height: 70px;
+    width: 150px;
+}
+
+div .blue {
+    background: aqua;
+}
